@@ -63,7 +63,6 @@ body{
     padding: 0.3rem 0.8rem;
     -webkit-box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
     -webkit-transition: -webkit-box-shadow 300ms ease-in-out;
-    transition: -webkit-box-shadow 300ms ease-in-out;
     -o-transition: box-shadow 300ms ease-in-out;
     transition: box-shadow 300ms ease-in-out, -webkit-box-shadow 300ms ease-in-out;
 }
