@@ -44,7 +44,7 @@ body{
     padding-bottom: 2rem;
     width: 100%;
     -webkit-box-shadow: 0 2px 12px 3px rgba(53, 53, 53 0.1);
-            box-shadow: 0 2px 12px 3px rgba(53, 53, 53 0.1);
+            
     border-radius: 4px;
 }
 .card-head{
@@ -69,7 +69,6 @@ body{
 }
 .card-head a:hover{
     -webkit-box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.2);
-            box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.2);
 }
 .user-image img{
     width: 100%;
